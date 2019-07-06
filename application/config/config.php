@@ -93,7 +93,7 @@ $config['charset'] = 'UTF-8';
 
 /*
 |--------------------------------------------------------------------------
-| Enable/Disable System Hooks
+| Enable/
 |--------------------------------------------------------------------------
 |
 | If you would like to use the 'hooks' feature you must enable it by
